@@ -21,3 +21,5 @@ doc/api/
 *.js.map
 
 .idea
+lib/clearance_token.dart
+lib/session_token.dart
